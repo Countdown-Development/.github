@@ -1,12 +1,27 @@
-## Hi there 👋
+# ⏳ Countdown Developments
 
-<!--
+Welcome to the official GitHub organization for **Countdown SMP** – a custom-coded Minecraft Survival Multiplayer experience built by passionate developers for an unforgettable community-driven adventure.
 
-**Here are some ideas to get you started:**
+## 🌍 About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Countdown Developments** is a team for working on Minecraft plugins and server infrastructure for the network.
+
+## 🧑‍💻 Contributing
+
+We welcome contributions from the community! Whether it’s submitting a pull request, reporting a bug, or suggesting a new feature — we’d love to hear from you.
+
+
+## 💬 Community & Support
+
+Stay up to date and be part of the conversation:
+
+- 🌐 [Discord Server](https://discord.gg/yourdiscordinvite)
+- 📰 [Website](https://countdownsmp.com)
+
+## 📜 License
+
+All projects hosted under Countdown Developments are licensed individually per repository. Please check each repo's `LICENSE` file before use.
+
+---
+
+🧠 *Built with creativity, code, and community in mind.*
