@@ -9,9 +9,9 @@ Welcome to the official GitHub organization for **Countdown SMP** – a custom-c
 ## 👥 Our Team
 
 ### 🔧 Developers
-* **Realisticrave** 
-* **Nix**  
-* **Codeman04The2nd** 
+* **Realisticrave** - Plugin Development
+* **Nix** - Plugin Development
+* **Codeman04The2nd** - Plugin Development
 
 ### 👑 Owners
 * **Lnyn** - Server Owner & Management
