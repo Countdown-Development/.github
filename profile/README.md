@@ -6,10 +6,23 @@ Welcome to the official GitHub organization for **Countdown SMP** – a custom-c
 
 **Countdown Developments** is a team for working on Minecraft plugins and server infrastructure for the network.
 
+## 👥 Our Team
+
+### 🔧 Developers
+* **Realisticrave** - Core Plugin Development
+* **Nix** - Server Systems & Features  
+* **Codeman04The2nd** - Backend Development
+
+### 👑 Owners
+* **Lnyn** - Server Owner & Management
+* **JustKurt** - Server Owner & Community Leadership
+
+### 🖥️ Server Host
+* **Richie** - Infrastructure & Server Hosting
+
 ## 🧑‍💻 Contributing
 
-We welcome contributions from the community! Whether it’s submitting a pull request, reporting a bug, or suggesting a new feature — we’d love to hear from you.
-
+We welcome contributions from the community! Whether it's submitting a pull request, reporting a bug, or suggesting a new feature — we'd love to hear from you.
 
 ## 💬 Community & Support
 
