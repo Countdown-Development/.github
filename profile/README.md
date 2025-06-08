@@ -15,7 +15,7 @@ We welcome contributions from the community! Whether it’s submitting a pull re
 
 Stay up to date and be part of the conversation:
 
-- 🌐 [Discord Server](https://discord.gg/yourdiscordinvite)
+- 🌐 [Discord Server](https://discord.gg/jNmmZGJRvj)
 - 📰 [Website](https://countdownsmp.com)
 
 ## 📜 License
