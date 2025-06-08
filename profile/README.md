@@ -9,8 +9,8 @@ Welcome to the official GitHub organization for **Countdown SMP** – a custom-c
 ## 👥 Our Team
 
 ### 👑 Owners
-* **Lnyn** - Server Owner & Management
 * **JustKurt** - Server Owner & Community Leadership
+* **Lnyn** - Server Owner & Management
 
 ### 🖥️ Server Host
 * **Richie** - Infrastructure & Server Hosting
