@@ -17,8 +17,11 @@ Welcome to the official GitHub organization for **Countdown SMP** – a custom-c
 
 ### 🔧 Developers
 * **Realisticrave** - Plugin Development
+   * [Timer plugin](https://github.com/Countdown-Development/Timer-plugin)
 * **Nix** - Plugin Development
+   * [End event](https://github.com/Countdown-Development/EndEvent)
 * **Codeman04The2nd** - Plugin Development
+   * Time Manipulators (no link yet)
 
 ## 🧑‍💻 Contributing
 
